@@ -1,0 +1,19 @@
+Lesson 2: Building a Responsive Navigation Menu
+
+Outline:
+
+    Enhancing the portfolio webpage by creating a responsive navigation menu:
+        Importance of a navigation menu for user experience.
+        Introduction to responsive design and its benefits.
+
+    Using CSS flexbox or grid to structure the menu:
+        Exploring CSS flexbox and grid as layout options for the menu.
+        Applying appropriate CSS properties to create a responsive menu.
+
+    Adding interactivity with JavaScript event listeners:
+        Introduction to JavaScript and its role in adding interactivity to webpages.
+        Implementing event listeners to respond to user actions like clicks and hover.
+
+    Homework project:
+        Task: Create a responsive navigation menu for the portfolio webpage.
+        Students should apply CSS and JavaScript to build a menu that adapts to different screen sizes.

@@ -1,0 +1,91 @@
+Lesson 1: Creating a Personal Portfolio Webpage
+
+    Introduction to HTML: tags, elements, and attributes
+    Building the basic structure of a webpage
+    Adding headings, paragraphs, images, and links
+    Styling the webpage with CSS
+    Homework project: Create a personal portfolio webpage showcasing their interests and hobbies.
+
+Lesson 2: Building a Responsive Navigation Menu
+
+    Enhancing the portfolio webpage by creating a responsive navigation menu
+    Using CSS flexbox or grid to structure the menu
+    Adding interactivity with JavaScript event listeners
+    Homework project: Create a responsive navigation menu for the portfolio webpage.
+
+Lesson 3: Creating an Image Gallery
+
+    Introduction to CSS grid for creating image galleries
+    Using CSS to style and arrange images
+    Implementing image hover effects using CSS transitions
+    Homework project: Build an image gallery with hover effects for the portfolio webpage.
+
+Lesson 4: Developing a Contact Form
+
+    Creating an HTML form to collect user information
+    Validating form input using JavaScript
+    Handling form submission with JavaScript event listeners
+    Homework project: Add a contact form to the portfolio webpage with form validation.
+
+Lesson 5: Building a Countdown Timer
+
+    Using JavaScript to create a countdown timer
+    Updating the timer dynamically using JavaScript intervals
+    Adding CSS styles to enhance the timer's appearance
+    Homework project: Create a countdown timer that counts down to a specific date or event.
+
+Lesson 6: Implementing a To-Do List
+
+    Creating an interactive to-do list using HTML, CSS, and JavaScript
+    Managing tasks with JavaScript arrays and objects
+    Adding, removing, and updating tasks dynamically
+    Homework project: Build a to-do list with the ability to add, remove, and mark tasks as completed.
+
+Lesson 7: Designing a Simple Game
+
+    Introduction to JavaScript event handling and DOM manipulation
+    Creating a game using HTML, CSS, and JavaScript
+    Implementing game logic, scoring, and user interaction
+    Homework project: Develop a simple game like a memory match or a quiz.
+
+Lesson 8: Creating a Responsive Pricing Table
+
+    Building a responsive pricing table using HTML and CSS
+    Using media queries to adapt the table for different screen sizes
+    Adding interactive features with JavaScript
+    Homework project: Design a responsive pricing table with interactive elements.
+
+Lesson 9: Developing a Weather App
+
+    Introduction to web APIs and fetching data
+    Using JavaScript to retrieve weather data from an API
+    Displaying the weather information dynamically on a webpage
+    Homework project: Build a weather app that shows the current weather based on user input.
+
+Lesson 10: Creating a Game with Good Graphics (Final Project)
+
+Objective: In this final project, students will apply their knowledge of HTML, CSS, and JavaScript to create a game with good graphics. They will have the freedom to choose a game concept that interests them and showcase their skills in designing and implementing the game.
+
+Duration: 1.5 hours
+
+Steps:
+
+    Review: Begin the lesson by reviewing the key concepts of HTML, CSS, and JavaScript covered throughout the course. Reinforce important topics such as DOM manipulation, event handling, CSS styling, and game logic.
+
+    Game Concept Selection: Allow each student to choose a game concept based on their interests. Encourage creativity and provide guidance if needed. The game could be a simple arcade game, a platformer, a puzzle game, or any other genre the student prefers.
+
+    Game Design and Planning: Instruct the students to plan and design their game. This includes creating a visual mockup or sketch of the game layout, character designs, background images, and any other graphical elements they want to incorporate.
+
+    HTML Structure: Assist the students in creating the basic HTML structure for their game. This includes setting up the necessary containers, game canvas, and any additional elements required for the game's interface.
+
+    CSS Styling: Guide the students in applying CSS styles to their game. Emphasize the importance of good graphics and aesthetics. Help them with animations, transitions, and responsive design to enhance the visual appeal of their game.
+
+    Game Logic and Interactivity: Help the students implement the game logic and interactivity using JavaScript. This may include handling user input, moving game characters, collision detection, keeping score, and managing game states (start screen, gameplay, game over, etc.).
+
+    Graphics Integration: Assist the students in integrating graphics into their game. This includes adding background images, character sprites, item icons, and any other graphical assets they have designed or obtained from online resources.
+
+    Testing and Debugging: Encourage the students to thoroughly test their game and identify any bugs or issues. Assist them in debugging their code and making necessary adjustments to ensure smooth gameplay.
+
+    Refinement and Polish: Guide the students in adding final touches to their game. Help them optimize the graphics, improve game performance, and add any additional features or animations that enhance the overall experience.
+
+    Present and Share: Allocate time for each student to present their game to the class. Encourage them to discuss their design choices, demonstrate gameplay, and highlight the technical aspects they are proud of.

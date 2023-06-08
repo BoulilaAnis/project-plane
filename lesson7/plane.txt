@@ -1,0 +1,20 @@
+Lesson 7: Designing a Simple Game
+
+Outline:
+
+    Introduction to JavaScript event handling and DOM manipulation:
+        Recap of JavaScript event listeners and their role in handling user interactions.
+        Understanding the Document Object Model (DOM) and its representation of webpages.
+
+    Creating a game using HTML, CSS, and JavaScript:
+        Designing the game layout using HTML elements and CSS styling.
+        Adding interactivity and game logic using JavaScript.
+
+    Implementing game logic, scoring, and user interaction:
+        Defining the rules and objectives of the game.
+        Tracking and updating the game score based on user actions.
+        Implementing event listeners to respond to user input and trigger game actions.
+
+    Homework project:
+        Task: Develop a simple game like a memory match or a quiz.
+        Students should apply their knowledge of HTML, CSS, and JavaScript to create an interactive game with clear objectives and user interaction.

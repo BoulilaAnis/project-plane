@@ -1,0 +1,28 @@
+Lesson 1: Creating a Personal Portfolio Webpage
+
+Outline:
+
+    Introduction to HTML:
+        Explanation of HTML tags, elements, and attributes.
+        Examples of commonly used tags like <h1>, <p>, <img>, and <a>.
+
+    Building the basic structure of a webpage:
+        Creating the HTML boilerplate.
+        Adding the <head> section for metadata and the <body> section for content.
+        Structuring the webpage using tags like <header>, <nav>, <main>, and <footer>.
+
+    Adding headings, paragraphs, images, and links:
+        Using <h1> to <h6> tags for headings.
+        Inserting paragraphs with the <p> tag.
+        Including images using the <img> tag and specifying source and alt text.
+        Creating links with the <a> tag and setting the URL and link text.
+
+    Styling the webpage with CSS:
+        Introduction to CSS and its role in styling webpages.
+        Applying inline styles and using internal and external CSS.
+        Selecting elements with CSS selectors.
+        Modifying properties like color, font, margin, padding, and background.
+
+    Homework project:
+        Task: Create a personal portfolio webpage showcasing interests and hobbies.
+        Students are encouraged to use the learned HTML and CSS concepts to structure and style their portfolios.

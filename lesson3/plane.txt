@@ -1,0 +1,21 @@
+Lesson 3: Creating an Image Gallery
+
+Outline:
+
+    Introduction to CSS grid for creating image galleries:
+        Explaining the CSS grid layout and its advantages for creating image galleries.
+        Understanding grid containers and grid items.
+
+    Using CSS to style and arrange images:
+        Applying CSS properties to position and size images within the grid.
+        Adjusting spacing between images using margins and padding.
+
+    Implementing image hover effects using CSS transitions:
+        Using CSS transitions to create smooth animations on image hover.
+        Modifying properties like opacity, scale, and filters for hover effects.
+
+    Homework project:
+        Task: Build an image gallery with hover effects for the portfolio webpage.
+        Students should use CSS grid and transitions to create an interactive image gallery.
+
+(Note: Continued in the next response)

@@ -1,0 +1,19 @@
+Lesson 8: Creating a Responsive Pricing Table
+
+Outline:
+
+    Building a responsive pricing table using HTML and CSS:
+        Designing the structure of a pricing table using HTML table elements.
+        Styling the table using CSS properties to enhance its appearance.
+
+    Using media queries to adapt the table for different screen sizes:
+        Understanding media queries and their role in responsive design.
+        Creating CSS rules that apply specific styles based on screen width.
+
+    Adding interactive features with JavaScript:
+        Enhancing the pricing table with interactive elements like tooltips or dynamic pricing updates.
+        Implementing JavaScript event listeners to handle user interactions.
+
+    Homework project:
+        Task: Design a responsive pricing table with interactive elements.
+        Students should create a pricing table that adjusts its layout and styles based on different screen sizes. They should also incorporate interactive features using JavaScript.

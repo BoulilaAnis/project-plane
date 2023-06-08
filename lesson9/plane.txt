@@ -1,0 +1,21 @@
+Lesson 9: Developing a Weather App
+
+Outline:
+
+    Introduction to web APIs and fetching data:
+        Explanation of web APIs and their role in retrieving data from external sources.
+        Introduction to the concept of JSON and how data is commonly formatted.
+
+    Using JavaScript to retrieve weather data from an API:
+        Making HTTP requests to weather APIs using JavaScript's fetch or other methods.
+        Parsing the response data and extracting the relevant information.
+
+    Displaying the weather information dynamically on a webpage:
+        Updating the webpage with the fetched weather data.
+        Dynamically populating HTML elements with the retrieved information.
+
+    Homework project:
+        Task: Build a weather app that shows the current weather based on user input.
+        Students should create a weather app that allows users to enter a location and displays the current weather conditions using data retrieved from a weather API.
+
+Note: Each lesson can be further expanded with subtopics, code examples, and exercises to reinforce learning.
