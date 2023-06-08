@@ -66,7 +66,6 @@ Lesson 10: Creating a Game with Good Graphics (Final Project)
 
 Objective: In this final project, students will apply their knowledge of HTML, CSS, and JavaScript to create a game with good graphics. They will have the freedom to choose a game concept that interests them and showcase their skills in designing and implementing the game.
 
-Duration: 1.5 hours
 
 Steps:
 
